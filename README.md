@@ -33,13 +33,16 @@ DaisyScan is a comprehensive web security scanning tool built with Flask that he
 ```
 git clone https://github.com/yourusername/DaisyScan.git
 cd DaisyScan
-```
+
+```bash
 cd DaisyScan-
 ```
-```
+
+```bash
 pip3 install -r requirements.txt
 ```
-```
+
+```bash
 python3 DaisyScan.py
 ```
 
