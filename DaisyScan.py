@@ -1858,7 +1858,7 @@ id:{
   scanning:'Memindai...',done:'Pemindaian selesai',err:'Kesalahan',
   subDesc:'Pemindaian tervalidasi DNS — hanya subdomain yang aktif dan merespons HTTP yang ditampilkan. Domain mati otomatis diabaikan.',
   aboutRole:'Peneliti Keamanan Independen · Otodidak',
-  aboutBio:'Peneliti keamanan otodidak yang ahli dalam analisis malware, reverse engineering, riset kerentanan, dan bug hunting. Bersemangat mengungkap ancaman tersembunyi melalui analisis mandiri yang sistematis — tanpa gelar formal, hanya dedikasi penuh, rasa ingin tahu, dan pengalaman langsung bertahun-tahun dalam memahami bagaimana sistem dapat dibobol.',
+  aboutBio:'Peneliti keamanan otodidak yang ahli dalam analisis malware, reverse engineering, riset kerentanan, dan bug hunting. Bersemangat mengungkap ancaman tersembunyi melalui analisis mandiri, hanya dedikasi penuh, rasa ingin tahu, dan pengalaman langsung bertahun-tahun dalam memahami bagaimana sistem dapat dibobol.',
   aboutToolT:'Tentang DaisyScan v2',
   aboutToolD:'DaisyScan adalah alat pemindai kerentanan web & API berkelas profesional dengan kemampuan pemindaian mendalam. Fitur: Mesin Rekon multi-thread, Pemindai File Sensitif cerdas dengan validasi konten & pencegahan false positive, Penemuan Endpoint dengan deteksi soft-404, Penemuan Subdomain Aktif dengan validasi DNS & HTTP, Analisis GraphQL, Analisis Keamanan JWT, Uji CORS, dan Fuzzer multi-mode.',
   fBy:'oleh',fNote:'Hanya untuk pengujian keamanan yang sah. Gunakan dengan bertanggung jawab.',
