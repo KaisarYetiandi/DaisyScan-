@@ -5,7 +5,7 @@
 ![Flask](https://img.shields.io/badge/flask-2.3.3-red)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-DaisyScan is a comprehensive web security scanning tool built with Flask that helps security professionals and developers identify potential vulnerabilities in web applications. It features multi-threaded scanning capabilities with extensive payload databases for subdomain enumeration, sensitive file discovery, SQL injection testing, and SSRF vulnerability detection.
+*DaisyScan is a comprehensive web security scanning tool built with Flask that helps security professionals and developers identify potential vulnerabilities in web applications. It features multi-threaded scanning capabilities with extensive payload databases for subdomain enumeration, sensitive file discovery, SQL injection testing, and SSRF vulnerability detection.*
 
 ## 🚀 Features
 
